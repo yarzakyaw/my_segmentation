@@ -1,0 +1,456 @@
+{
+  "ကုလသမဂ္ဂ": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ယနေ့": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "လွတ်လပ်ရေး": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "နေ့": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "နိုင်ငံ့ဝန်ထမ်း": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ဥပဒေ": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ကျောင်းသား": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "လွတ်လပ်": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ဖြစ်": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ကတည်းက": {
+    "part": "particle",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ကို": {
+    "part": "particle",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "စာအုပ်",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "ထုတ်ဝေ",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "ကြောင့်": {
+    "part": "particle",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "သည်": {
+    "part": "particle",
+    "freq": 0.046875,
+    "preceding": [
+      {
+        "token": "ဝန်ကြီးဌာန",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "ထုတ်ဝေ",
+        "prob": 0.047619047619047616
+      }
+    ],
+    "following": [
+      {
+        "token": "အထက်တန်း",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "။",
+        "prob": 0.047619047619047616
+      }
+    ]
+  },
+  "က": {
+    "part": "particle",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ပညာရေး": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "<START>",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "ဝန်ကြီးဌာန",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "ပညာ": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ဝန်ကြီးဌာန": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "ပညာရေး",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "သည်",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "ဌာန": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "ဝန်ကြီး": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "အထက်တန်း": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "သည်",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "ကျောင်း",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "ကျောင်း": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "အထက်တန်း",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "များ",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "သား": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "များ": {
+    "part": "particle",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "ကျောင်း",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "တွင်",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "တွင်": {
+    "part": "particle",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "များ",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "သင်ကြား",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "အတွက်": {
+    "part": "particle",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "အကြောင်း": {
+    "part": "particle",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "ရေး",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "စာအုပ်",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "တွက်": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "သင်ကြား": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "တွင်",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "ရေး",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "ရေး": {
+    "part": "particle",
+    "freq": 0.046875,
+    "preceding": [
+      {
+        "token": "သင်ကြား",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "တော်လှန်",
+        "prob": 0.047619047619047616
+      }
+    ],
+    "following": [
+      {
+        "token": "အထောက်အကူ",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "အကြောင်း",
+        "prob": 0.047619047619047616
+      }
+    ]
+  },
+  "အထောက်အကူ": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "ရေး",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "ပြု",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "ပြု": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "အထောက်အကူ",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "စာအုပ်",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "စာအုပ်": {
+    "part": "root",
+    "freq": 0.046875,
+    "preceding": [
+      {
+        "token": "ပြု",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "အကြောင်း",
+        "prob": 0.047619047619047616
+      }
+    ],
+    "following": [
+      {
+        "token": "ကို",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "ထုတ်ဝေ",
+        "prob": 0.047619047619047616
+      }
+    ]
+  },
+  "ထုတ်ဝေ": {
+    "part": "root",
+    "freq": 0.046875,
+    "preceding": [
+      {
+        "token": "ကို",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "စာအုပ်",
+        "prob": 0.047619047619047616
+      }
+    ],
+    "following": [
+      {
+        "token": "ခဲ့",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "သည်",
+        "prob": 0.047619047619047616
+      }
+    ]
+  },
+  "ခဲ့": {
+    "part": "particle",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "ထုတ်ဝေ",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "။",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "။": {
+    "part": "punctuation",
+    "freq": 0.046875,
+    "preceding": [
+      {
+        "token": "ခဲ့",
+        "prob": 0.047619047619047616
+      },
+      {
+        "token": "သည်",
+        "prob": 0.047619047619047616
+      }
+    ],
+    "following": [
+      {
+        "token": "<END>",
+        "prob": 0.07142857142857142
+      }
+    ]
+  },
+  "ဗိုလ်ချုပ်ကတော်": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "<START>",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "တော်လှန်",
+        "prob": 0.04878048780487805
+      }
+    ]
+  },
+  "ဗိုလ်ချုပ်": {
+    "part": "root",
+    "freq": 0.015625,
+    "preceding": [],
+    "following": []
+  },
+  "တော်လှန်": {
+    "part": "root",
+    "freq": 0.03125,
+    "preceding": [
+      {
+        "token": "ဗိုလ်ချုပ်ကတော်",
+        "prob": 0.04878048780487805
+      }
+    ],
+    "following": [
+      {
+        "token": "ရေး",
+        "prob": 0.04878048780487805
+      }
+    ]
+  }
+}

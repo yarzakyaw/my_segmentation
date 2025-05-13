@@ -1,0 +1,805 @@
+{
+  "version": "1.0",
+  "truncation": null,
+  "padding": null,
+  "added_tokens": [
+    {
+      "id": 0,
+      "content": "ကုလသမဂ္ဂ",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 1,
+      "content": "ယနေ့",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 2,
+      "content": "လွတ်လပ်ရေး",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 3,
+      "content": "နေ့",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 4,
+      "content": "နိုင်ငံ့ဝန်ထမ်း",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 5,
+      "content": "ဥပဒေ",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 6,
+      "content": "ကျောင်းသား",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 7,
+      "content": "လွတ်လပ်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 8,
+      "content": "ဖြစ်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 9,
+      "content": "ကတည်းက",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 10,
+      "content": "ကို",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 11,
+      "content": "ကြောင့်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 12,
+      "content": "သည်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 13,
+      "content": "က",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 14,
+      "content": "ပညာရေး",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 15,
+      "content": "ပညာ",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 16,
+      "content": "ဝန်ကြီးဌာန",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 17,
+      "content": "ဌာန",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 18,
+      "content": "ဝန်ကြီး",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 19,
+      "content": "အထက်တန်း",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 20,
+      "content": "ကျောင်း",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 21,
+      "content": "သား",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 22,
+      "content": "များ",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 23,
+      "content": "တွင်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 24,
+      "content": "အတွက်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 25,
+      "content": "အကြောင်း",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 26,
+      "content": "တွက်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 27,
+      "content": "သင်ကြား",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 28,
+      "content": "ရေး",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 29,
+      "content": "အထောက်အကူ",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 30,
+      "content": "ပြု",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 31,
+      "content": "စာအုပ်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 32,
+      "content": "ထုတ်ဝေ",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 33,
+      "content": "ခဲ့",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 34,
+      "content": "။",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 35,
+      "content": "ဗိုလ်ချုပ်ကတော်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 36,
+      "content": "ဗိုလ်ချုပ်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 37,
+      "content": "တော်လှန်",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 38,
+      "content": "[PAD]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 39,
+      "content": "[UNK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 40,
+      "content": "[CLS]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 41,
+      "content": "[SEP]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 42,
+      "content": "[MASK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "normalizer": null,
+  "pre_tokenizer": {
+    "type": "Whitespace"
+  },
+  "post_processor": null,
+  "decoder": {
+    "type": "ByteLevel",
+    "add_prefix_space": true,
+    "trim_offsets": true,
+    "use_regex": true
+  },
+  "model": {
+    "type": "BPE",
+    "dropout": null,
+    "unk_token": "[UNK]",
+    "continuing_subword_prefix": null,
+    "end_of_word_suffix": null,
+    "fuse_unk": false,
+    "byte_fallback": false,
+    "ignore_merges": false,
+    "vocab": {
+      "ကုလသမဂ္ဂ": 0,
+      "ယနေ့": 1,
+      "လွတ်လပ်ရေး": 2,
+      "နေ့": 3,
+      "နိုင်ငံ့ဝန်ထမ်း": 4,
+      "ဥပဒေ": 5,
+      "ကျောင်းသား": 6,
+      "လွတ်လပ်": 7,
+      "ဖြစ်": 8,
+      "ကတည်းက": 9,
+      "ကို": 10,
+      "ကြောင့်": 11,
+      "သည်": 12,
+      "က": 13,
+      "ပညာရေး": 14,
+      "ပညာ": 15,
+      "ဝန်ကြီးဌာန": 16,
+      "ဌာန": 17,
+      "ဝန်ကြီး": 18,
+      "အထက်တန်း": 19,
+      "ကျောင်း": 20,
+      "သား": 21,
+      "များ": 22,
+      "တွင်": 23,
+      "အတွက်": 24,
+      "အကြောင်း": 25,
+      "တွက်": 26,
+      "သင်ကြား": 27,
+      "ရေး": 28,
+      "အထောက်အကူ": 29,
+      "ပြု": 30,
+      "စာအုပ်": 31,
+      "ထုတ်ဝေ": 32,
+      "ခဲ့": 33,
+      "။": 34,
+      "ဗိုလ်ချုပ်ကတော်": 35,
+      "ဗိုလ်ချုပ်": 36,
+      "တော်လှန်": 37,
+      "[PAD]": 38,
+      "[UNK]": 39,
+      "[CLS]": 40,
+      "[SEP]": 41,
+      "[MASK]": 42,
+      "ခ": 43,
+      "ဂ": 44,
+      "င": 45,
+      "စ": 46,
+      "ည": 47,
+      "ဌ": 48,
+      "တ": 49,
+      "ထ": 50,
+      "ဒ": 51,
+      "န": 52,
+      "ပ": 53,
+      "ဖ": 54,
+      "ဗ": 55,
+      "မ": 56,
+      "ယ": 57,
+      "ရ": 58,
+      "လ": 59,
+      "ဝ": 60,
+      "သ": 61,
+      "အ": 62,
+      "ဥ": 63,
+      "ာ": 64,
+      "ိ": 65,
+      "ီ": 66,
+      "ု": 67,
+      "ူ": 68,
+      "ေ": 69,
+      "ဲ": 70,
+      "ံ": 71,
+      "့": 72,
+      "း": 73,
+      "္": 74,
+      "်": 75,
+      "ျ": 76,
+      "ြ": 77,
+      "ွ": 78,
+      "ှ": 79,
+      "က်": 80,
+      "င်": 81,
+      "ား": 82,
+      "ကြ": 83,
+      "ော": 84,
+      "ည်": 85,
+      "တွ": 86,
+      "န်": 87,
+      "ရေ": 88,
+      "သင်": 89,
+      "အထ": 90,
+      "ကြား": 91,
+      "ကူ": 92,
+      "မျ": 93,
+      "အတွ": 94,
+      "အကူ": 95,
+      "က်အကူ": 96,
+      "ောက်အကူ": 97,
+      "ကိ": 98,
+      "ကျ": 99,
+      "ခဲ": 100,
+      "စာ": 101,
+      "ညာ": 102,
+      "ဌာ": 103,
+      "တ်": 104,
+      "တော": 105,
+      "တန်": 106,
+      "ထု": 107,
+      "ပ်": 108,
+      "ပြ": 109,
+      "မှ": 110,
+      "လှ": 111,
+      "ဝေ": 112,
+      "ဝန်": 113,
+      "အု": 114,
+      "ီး": 115,
+      "်လှ": 116,
+      "က်တန်": 117,
+      "င်း": 118,
+      "ကြီး": 119,
+      "ောင်း": 120,
+      "အထက်တန်": 121,
+      "စာအု": 122,
+      "တ်ဝေ": 123,
+      "တော်လှ": 124,
+      "မှု": 125
+    },
+    "merges": [
+      [
+        "က",
+        "်"
+      ],
+      [
+        "င",
+        "်"
+      ],
+      [
+        "ာ",
+        "း"
+      ],
+      [
+        "က",
+        "ြ"
+      ],
+      [
+        "ေ",
+        "ာ"
+      ],
+      [
+        "ည",
+        "်"
+      ],
+      [
+        "တ",
+        "ွ"
+      ],
+      [
+        "န",
+        "်"
+      ],
+      [
+        "ရ",
+        "ေ"
+      ],
+      [
+        "သ",
+        "င်"
+      ],
+      [
+        "သ",
+        "ည်"
+      ],
+      [
+        "အ",
+        "ထ"
+      ],
+      [
+        "ကြ",
+        "ား"
+      ],
+      [
+        "ရေ",
+        "း"
+      ],
+      [
+        "သင်",
+        "ကြား"
+      ],
+      [
+        "က",
+        "ူ"
+      ],
+      [
+        "မ",
+        "ျ"
+      ],
+      [
+        "အ",
+        "တွ"
+      ],
+      [
+        "အ",
+        "ကူ"
+      ],
+      [
+        "က်",
+        "အကူ"
+      ],
+      [
+        "ော",
+        "က်အကူ"
+      ],
+      [
+        "အထ",
+        "ောက်အကူ"
+      ],
+      [
+        "မျ",
+        "ား"
+      ],
+      [
+        "အတွ",
+        "က်"
+      ],
+      [
+        "က",
+        "ိ"
+      ],
+      [
+        "က",
+        "ျ"
+      ],
+      [
+        "ခ",
+        "ဲ"
+      ],
+      [
+        "စ",
+        "ာ"
+      ],
+      [
+        "ည",
+        "ာ"
+      ],
+      [
+        "ဌ",
+        "ာ"
+      ],
+      [
+        "တ",
+        "်"
+      ],
+      [
+        "တ",
+        "ော"
+      ],
+      [
+        "တ",
+        "န်"
+      ],
+      [
+        "ထ",
+        "ု"
+      ],
+      [
+        "ပ",
+        "်"
+      ],
+      [
+        "ပ",
+        "ြ"
+      ],
+      [
+        "ပ",
+        "ညာ"
+      ],
+      [
+        "ပညာ",
+        "ရေး"
+      ],
+      [
+        "မ",
+        "ှ"
+      ],
+      [
+        "လ",
+        "ှ"
+      ],
+      [
+        "ဝ",
+        "ေ"
+      ],
+      [
+        "ဝ",
+        "န်"
+      ],
+      [
+        "အ",
+        "ု"
+      ],
+      [
+        "ီ",
+        "း"
+      ],
+      [
+        "်",
+        "လှ"
+      ],
+      [
+        "က်",
+        "တန်"
+      ],
+      [
+        "င်",
+        "း"
+      ],
+      [
+        "ကြ",
+        "ီး"
+      ],
+      [
+        "ော",
+        "င်း"
+      ],
+      [
+        "တွ",
+        "င်"
+      ],
+      [
+        "အထ",
+        "က်တန်"
+      ],
+      [
+        "ကိ",
+        "ု"
+      ],
+      [
+        "ကျ",
+        "ောင်း"
+      ],
+      [
+        "ခဲ",
+        "့"
+      ],
+      [
+        "စာ",
+        "အု"
+      ],
+      [
+        "ဌာ",
+        "န"
+      ],
+      [
+        "တ်",
+        "ဝေ"
+      ],
+      [
+        "တော",
+        "်လှ"
+      ],
+      [
+        "ထု",
+        "တ်ဝေ"
+      ],
+      [
+        "ပြ",
+        "ု"
+      ],
+      [
+        "မှ",
+        "ု"
+      ],
+      [
+        "ဝန်",
+        "ကြီး"
+      ],
+      [
+        "အထက်တန်",
+        "း"
+      ],
+      [
+        "စာအု",
+        "ပ်"
+      ],
+      [
+        "တော်လှ",
+        "န်"
+      ]
+    ]
+  }
+}
